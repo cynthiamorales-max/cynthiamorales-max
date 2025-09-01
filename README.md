@@ -12,7 +12,7 @@ Paqueteria Office
 
 QGis ![](https://share.google/images/WzdHOYz3Ng5BqFaOI) 🗺️
 
-Inglés intermedio
+Inglés intermedio 📖
 
 ## ———————
 
@@ -20,7 +20,7 @@ He trabajado... 🧑‍💼
 
 Relacionado con ecología mi proyecto de licenciatura se centro en investigar las especies exóticas invasoras de la Ciudad de México.
 
-Me interesan mucho los temas relacionados a la conservación de especies.
+Me interesan mucho los temas relacionados a la conservación de especies. Actualmente estoy realizando monitoreo de aves con fototrampas.
 
 
 
