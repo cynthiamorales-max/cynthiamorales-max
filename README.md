@@ -14,7 +14,7 @@ QGis ![](https://share.google/images/WzdHOYz3Ng5BqFaOI) 🗺️
 
 Inglés intermedio 📖
 
-## ———————
+## —————
 
 He trabajado... 🧑‍💼
 
