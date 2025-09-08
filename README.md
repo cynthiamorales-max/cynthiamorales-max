@@ -1,6 +1,6 @@
 **¡Hola!**  **Soy Cynthia Morales**  
 
-🦉🌳 Soy biologa
+🦉🌳 Soy bióloga
 
 Soy egresada de la Facultad de Ciencias de la Universidad Nacional Autónoma de México. 
 Actualmente estoy estudiando la maestría en Ciencias Biológicas en el Instituto de Biología de la Universidad Nacional Autónoma de México, enfocado en el área de ecología.
@@ -22,6 +22,7 @@ Relacionado con ecología mi proyecto de licenciatura se centro en investigar la
 
 Me interesan mucho los temas relacionados a la conservación de especies. Actualmente estoy realizando monitoreo de aves con fototrampas.
 
+## —————
 
 
 
