@@ -2,7 +2,7 @@
 
 🦉🌳 Soy bióloga
 
-Soy egresada de la Facultad de Ciencias de la Universidad Nacional Autónoma de México. 
+Soy egresada de la carrera de biología de la Facultad de Ciencias de la Universidad Nacional Autónoma de México. 
 Actualmente estoy estudiando la maestría en Ciencias Biológicas en el Instituto de Biología de la Universidad Nacional Autónoma de México, enfocado en el área de ecología.
 
 ## —————
@@ -10,7 +10,8 @@ Actualmente estoy estudiando la maestría en Ciencias Biológicas en el Institut
 **Habilidades** 💻 🌐\
 Paqueteria Office
 
-QGis ![](https://share.google/images/WzdHOYz3Ng5BqFaOI) 🗺️
+QGis  [![](https://share.google/images/GqZtZWe8Fw6ZSItxD)](https://share.google/images/GqZtZWe8Fw6ZSItxD)
+🗺️
 
 Inglés intermedio 📖
 
